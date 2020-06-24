@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+My name is Vanessa and I need to make my own website!
